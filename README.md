@@ -7,4 +7,4 @@
 - JavaScript
 - CSS
 
-images/image.png
+readme_images/image.png

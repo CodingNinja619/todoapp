@@ -7,4 +7,4 @@
 - JavaScript
 - CSS
 
-readme_images/image.png
+![photo](./readme_images/image.png)

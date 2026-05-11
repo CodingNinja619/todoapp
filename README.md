@@ -1,2 +1,8 @@
-# todoapp
-Простой todoapp
+# ToDo App
+
+Простое React-приложение для управления задачами.
+
+## Технологии
+- React
+- JavaScript
+- CSS

@@ -6,3 +6,5 @@
 - React
 - JavaScript
 - CSS
+
+images/image.png
